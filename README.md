@@ -11,6 +11,15 @@
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
 </h2>
 
+<!-- 贪吃蛇 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <div align="left">
   <img align="right" height="180" src="assets/images/coding.gif"/>
 
@@ -27,18 +36,6 @@
   <p>致力于成为一名优秀的全栈工程师，用代码创造价值，让技术改变生活</p>
 </div>
 
-<!-- 贪吃蛇 -->
-<h2 align="center">
-  <img src="assets/images/typing-cat.gif" width="25px">&nbsp;Contribution Graph
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <br>
 
