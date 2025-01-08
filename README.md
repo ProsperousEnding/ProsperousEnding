@@ -51,8 +51,8 @@
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProsperousEnding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495&hide_rank=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117&card_width=495" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ProsperousEnding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495&hide_rank=true" alt="ProsperousEnding's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117&card_width=495" alt="ProsperousEnding's GitHub Streak Stats" />
 </div>
 
 <div align="center">
