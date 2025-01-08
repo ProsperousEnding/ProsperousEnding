@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:40A9FF&text=Welcome!&height=170&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=35&desc=A%20passionate%20developer%20from%20China&descSize=20&descAlignY=55"/>
-</div>
-
-<br>
 
 <!-- 动态标题 -->
 <div align="center">
@@ -11,42 +6,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="assets/images/coding.gif" width="200"/>
-</div>
-
-<br>
-
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://github.com/ProsperousEnding">
-    <img src="https://img.shields.io/badge/GitHub-ProsperousEnding-4B4B4B?style=for-the-badge&logo=Github&logoColor=white&labelColor=black">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:prosperousending@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-prosperousending@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProsperousEnding&style=for-the-badge&color=blue" alt="profile views" />&nbsp;
-  <img src="https://img.shields.io/github/followers/ProsperousEnding?style=for-the-badge&logo=github&color=1e90ff" alt="followers" />&nbsp;
-  <img src="https://img.shields.io/github/stars/ProsperousEnding?style=for-the-badge&logo=github&color=ffd700" alt="stars" />
-</div>
-
-<br>
-
-<!-- 分隔线 -->
-<img src="assets/images/hr.gif" />
-
 <!-- 关于我 -->
 <h2 align="center">
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
 </h2>
 
 <div align="left">
-  <img align="right" height="180" src="assets/images/coding-right.gif"/>
+  <img align="right" height="180" src="assets/images/coding.gif"/>
 
   <h3>🎯 关于我</h3>
   <p>
@@ -57,14 +23,9 @@
     💡 喜欢在编码时听音乐 🎧
   </p>
 
-  <h3>🚀 我的目标</h3>
+  <h3> <img src="assets/images/skills.gif" width="25px"> 我的目标</h3>
   <p>致力于成为一名优秀的全栈工程师，用代码创造价值，让技术改变生活</p>
 </div>
-
-<br>
-
-<!-- 分隔线 -->
-<img src="assets/images/hr.gif" />
 
 <!-- 贪吃蛇 -->
 <h2 align="center">
@@ -92,75 +53,11 @@
   </a>
 </div>
 
-<br>
-
-<!-- 项目展示 -->
-<h2 align="center">
-  <img src="assets/images/project.gif" width="25px">&nbsp;Featured Projects
-</h2>
-
-<div align="center">
-  <a href="https://github.com/ProsperousEnding/your-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProsperousEnding&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ProsperousEnding/your-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProsperousEnding&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<br>
-
-<!-- 技能图标 -->
-<h2 align="center">
-  <img src="assets/images/skills.gif" width="25px">&nbsp;Skills & Tools
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🔥 Core</h3>
-        <img src="https://skillicons.dev/icons?i=java,vue&theme=dark" /><br>
-        <sub><sup>Java • Vue.js</sup></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🌐 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css&theme=dark" /><br>
-        <sub><sup>Vue.js • JavaScript • TypeScript • HTML5 • CSS3</sup></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>💻 Backend</h3>
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=dark" /><br>
-        <sub><sup>Java • Spring • MySQL • Redis</sup></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🛠️ Tools & Environment</h3>
-        <img src="https://skillicons.dev/icons?i=git,idea,vscode,docker&theme=dark" /><br>
-        <sub><sup>Git • IntelliJ IDEA • VS Code • Docker</sup></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 <!-- 统计卡片 -->
 <h2 align="center">
   <img src="assets/images/project.gif" width="25px">&nbsp;GitHub Stats
 </h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProsperousEnding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  &nbsp;
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousEnding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
 
 <div align="center">
   <br>
@@ -179,7 +76,6 @@
   <img src="https://moe-counter.glitch.me/get/@ProsperousEnding?theme=rule34" />
 </div>
 
-<br>
 
 <!-- 动态尾部 -->
 <div align="center">
