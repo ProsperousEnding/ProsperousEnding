@@ -2,7 +2,7 @@
 <h2 align="center">
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
 </h2>
-
+    👨‍💻 欢迎第 <img src="https://profile-counter.glitch.me/ProsperousEnding/count.svg" /> 位访客<br>
 <!-- 贪吃蛇 -->
 <div align="center">
   <picture>
@@ -22,7 +22,9 @@
     🎮 绝区零玩家 & 游戏王卡牌爱好者<br>
     🌱 日常学习中<br>
     ⚡ 热爱探索新技术<br>
-    💡 喜欢在编码时听音乐 🎧
+    💡 喜欢在编码时听音乐 🎧<br>
+    📮Gmail: <a href="mailto:prosperousending@gmail.com">prosperousending@gmail.com</a><br>
+    📝 博客园: <a href="https://www.cnblogs.com/ProsperousEnding">https://www.cnblogs.com/ProsperousEnding</a>
   </p>
 </div>
 
