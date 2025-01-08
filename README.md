@@ -2,7 +2,7 @@
 <h2 align="center">
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
 </h2>
-    👨‍💻 欢迎第 <img src="https://profile-counter.glitch.me/ProsperousEnding/count.svg" /> 位访客<br>
+ <h3>👨‍💻 欢迎第 <img src="https://profile-counter.glitch.me/ProsperousEnding/count.svg" /> 位访客</h3>
 <!-- 贪吃蛇 -->
 <div align="center">
   <picture>
