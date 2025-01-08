@@ -1,11 +1,3 @@
-
-<!-- 动态标题 -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+ProsperousEnding+%F0%9F%98%8A;Welcome+to+my+profile!+%F0%9F%8E%89;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5+%F0%9F%98%84" alt="Typing SVG" />
-  </a>
-</div>
-
 <!-- 关于我 -->
 <h2 align="center">
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
@@ -57,16 +49,9 @@
 </h2>
 
 <div align="center">
-  <br>
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img align="right" width="47%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperousEnding&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
-
-<div align="center">
-  <br>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperousEnding&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
-<br>
 
 <!-- 访客统计 -->
 <div align="center">
