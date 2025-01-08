@@ -49,6 +49,9 @@
 <h2 align="center">
   <img src="assets/images/project.gif" width="25px">&nbsp;GitHub Stats
 </h2>
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=javascript,javascript,auto;typescript,typescript,auto;react,react,auto;vue,vue,auto;&line2=node.js,node.js,auto;python,python,auto;java,java,auto;spring,spring,auto;" alt="Tech Stack" />
+</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ProsperousEnding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495&hide_rank=true" alt="ProsperousEnding's GitHub Stats" />
@@ -70,4 +73,8 @@
 <!-- 动态尾部 -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:9370DB,100:00BFFF&height=120&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🔭+Currently+working+on+Web+Development;🌱+Learning+AI+and+Machine+Learning;💬+Ask+me+about+anything+tech+related;⚡+Fun+fact:+I+love+coding+at+night" />
 </div>
