@@ -2,7 +2,9 @@
 <h2 align="center">
   <img src="assets/images/about.gif" width="25px">&nbsp;About Me
 </h2>
- <h3>👨‍💻 欢迎第 <img src="https://profile-counter.glitch.me/ProsperousEnding/count.svg" /> 位访客</h3>
+
+<h3 align="center">👨‍💻 欢迎第 <img src="https://profile-counter.glitch.me/ProsperousEnding/count.svg" /> 位访客</h3>
+
 <!-- 贪吃蛇 -->
 <div align="center">
   <picture>
@@ -49,11 +51,14 @@
 </h2>
 
 <div align="center">
-  <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img align="right" width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperousEnding&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProsperousEnding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495&hide_rank=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProsperousEnding&theme=tokyonight&hide_border=true&background=0D1117&card_width=495" />
 </div>
 
-<br clear="both">
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperousEnding&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
+
 <br>
 
 <!-- 访客统计 -->
