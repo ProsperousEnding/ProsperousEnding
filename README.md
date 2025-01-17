@@ -50,7 +50,7 @@
   <img src="assets/images/project.gif" width="25px">&nbsp;GitHub Stats
 </h2>
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=javascript,javascript,auto;typescript,typescript,auto;react,react,auto;vue,vue,auto;&line2=node.js,node.js,auto;python,python,auto;java,java,auto;spring,spring,auto;" alt="Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=javascript,javascript,auto;typescript,typescript,auto;vue,vue,auto;node.js,node.js,auto;&line2=java,java,auto;spring,spring,auto;c#,c#,auto,Rust,Rust,auto,python,python,auto;" alt="Tech Stack" />
 </div>
 
 <div align="center">
