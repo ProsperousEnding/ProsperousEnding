@@ -1,6 +1,6 @@
 <!-- 3D 立体头部横幅 -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30,26,28&height=300&section=header&text=ProsperousEnding&fontSize=80&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20%7C%20UI%20Designer%20%7C%20Tech%20Innovator%20✨&descAlignY=65&descAlign=50&descSize=20&stroke=fff&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30,26,28&height=300&section=header&text=ProsperousEnding&fontSize=80&fontColor=1a1a1a&animation=scaleIn&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20%7C%20UI%20Designer%20%7C%20Tech%20Innovator%20✨&descAlignY=65&descAlign=50&descSize=20&stroke=000&strokeWidth=2"/>
 </div>
 
 <!-- 动态标题 -->
@@ -103,9 +103,11 @@ const developer = {
 };
 ```
 
-<div align="center">
-  <img src="assets/images/coding-right.gif" width="280px" style="border-radius: 10px;"/>
-</div>
+<br>
+
+<p align="center">
+  <img src="assets/images/coding-right.gif" width="250px" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+</p>
 
 </td>
 </tr>
