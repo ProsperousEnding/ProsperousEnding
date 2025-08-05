@@ -36,11 +36,11 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="🌠" width="35" height="35" />
 </div>
 
-<table width="100%" border="0">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 关于我
+## 👨‍💻 关于我
 
 ```yaml
 name: ProsperousEnding
@@ -71,7 +71,7 @@ motto: "Code with passion, design with love ❤️"
 </td>
 <td width="50%" valign="top">
 
-### 💻 当前状态
+## 💻 当前状态
 
 ```javascript
 const developer = {
@@ -103,11 +103,9 @@ const developer = {
 };
 ```
 
-<br>
-
-<p align="center">
-  <img src="assets/images/coding-right.gif" width="250px" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ProsperousEnding/ProsperousEnding/main/assets/images/coding-right.gif" width="280px" alt="Coding Animation"/>
+</div>
 
 </td>
 </tr>
