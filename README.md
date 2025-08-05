@@ -180,12 +180,7 @@ const developer = {
 </tr>
 </table>
 
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousEnding&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProsperousEnding&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&radius=10" />
-
 </div>
 
 <br>
@@ -201,6 +196,8 @@ const developer = {
 <div align="center">
   <h3>🤝 Let's Build Something Amazing Together!</h3>
   
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
   <p><strong>Ready to collaborate and innovate? 🚀</strong></p>
   
   <a href="mailto:prosperousending@gmail.com">
@@ -212,7 +209,6 @@ const developer = {
   <a href="https://github.com/ProsperousEnding">
     <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
-
   <br>
   
   **⭐ From [ProsperousEnding](https://github.com/ProsperousEnding) with 💖**
