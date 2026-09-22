@@ -1,38 +1,30 @@
 name: Metrics
+
 on:
-  # Schedule daily update
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
-  # Allow manual trigger
   workflow_dispatch:
-  # Run on push to main branch
-  push: 
-    branches: ["main"]
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate contribution calendar
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # GitHub username
           user: ProsperousEnding
-          
-          # Output path
           filename: github-metrics.svg
-          
-          # Basic config - 只保留最基础的信息
           base: ""
           config_timezone: Asia/Shanghai
-          
-          # Template
           template: classic
-          
-          # 只启用等距提交日历
-          plugin_isocalendar: yes
+          plugin_isocalendar: "yes"
           plugin_isocalendar_duration: full-year
